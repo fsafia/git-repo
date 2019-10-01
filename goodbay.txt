@@ -1,0 +1,4 @@
+print("Goodbay");
+print ("goodbay everybody");
+
+print("goodbay finish");
